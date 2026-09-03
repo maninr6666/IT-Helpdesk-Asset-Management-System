@@ -75,6 +75,4 @@ git push -u origin main
 
 "I built an IT Helpdesk and Asset Management System to simulate a real L1/L2 support environment. Users can create incidents, support staff can prioritize and update tickets through their lifecycle, and IT assets can be assigned to employees. MySQL stores the relational data, while the dashboard provides basic operational metrics. I also added CSV export so ticket data can be opened in Excel for reporting."
 
-## Important
 
-This is a portfolio/academic project. Do not claim production deployment, real company ticket volumes, or measured business improvements unless you actually achieved them.
